@@ -1,1 +1,2 @@
-# ICPC-Trainings-Topics
+# ICPC Trainings Topics
+
